@@ -1,0 +1,77 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 848409ee8ba454f42a5ddff137688a27, type: 3}
+  m_Name: ReferenceImageLibrary
+  m_EditorClassIdentifier: 
+  m_GuidLow: 4867519901336179856
+  m_GuidHigh: 17871226295993105830
+  m_Images:
+  - m_SerializedGuid:
+      m_GuidLow: 4752656806777534056
+      m_GuidHigh: 7510723082997860773
+    m_SerializedTextureGuid:
+      m_GuidLow: 16898804750202723112
+      m_GuidHigh: 9849847372595723867
+    m_Size: {x: 0, y: 0}
+    m_SpecifySize: 0
+    m_Name: burger
+    m_Texture: {fileID: 0}
+  - m_SerializedGuid:
+      m_GuidLow: 5662906498568051264
+      m_GuidHigh: 181413836536272816
+    m_SerializedTextureGuid:
+      m_GuidLow: 8539999444917473940
+      m_GuidHigh: 18296729227597506169
+    m_Size: {x: 0, y: 0}
+    m_SpecifySize: 0
+    m_Name: drinks
+    m_Texture: {fileID: 0}
+  - m_SerializedGuid:
+      m_GuidLow: 5646148014856629859
+      m_GuidHigh: 8789310087054581912
+    m_SerializedTextureGuid:
+      m_GuidLow: 10751473478943665482
+      m_GuidHigh: 1164766197540159816
+    m_Size: {x: 0, y: 0}
+    m_SpecifySize: 0
+    m_Name: fries
+    m_Texture: {fileID: 0}
+  - m_SerializedGuid:
+      m_GuidLow: 5709412773259002194
+      m_GuidHigh: 7852292777340367011
+    m_SerializedTextureGuid:
+      m_GuidLow: 10044271248229259726
+      m_GuidHigh: 327652665568651160
+    m_Size: {x: 0, y: 0}
+    m_SpecifySize: 0
+    m_Name: taco
+    m_Texture: {fileID: 0}
+  - m_SerializedGuid:
+      m_GuidLow: 5445861935366806523
+      m_GuidHigh: 8069965234991114884
+    m_SerializedTextureGuid:
+      m_GuidLow: 10679260905123807245
+      m_GuidHigh: 17183425590404752473
+    m_Size: {x: 0, y: 0}
+    m_SpecifySize: 0
+    m_Name: pizza
+    m_Texture: {fileID: 0}
+  - m_SerializedGuid:
+      m_GuidLow: 4704872436325486429
+      m_GuidHigh: 14035924251140591528
+    m_SerializedTextureGuid:
+      m_GuidLow: 16786194318327482060
+      m_GuidHigh: 7269215152239413706
+    m_Size: {x: 0, y: 0}
+    m_SpecifySize: 0
+    m_Name: one
+    m_Texture: {fileID: 0}
