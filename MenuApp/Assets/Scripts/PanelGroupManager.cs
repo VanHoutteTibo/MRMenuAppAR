@@ -7,7 +7,7 @@ public class PanelGroupManager : MonoBehaviour
 
     private Vector3 pos;
     private bool movingRight = false;
-    public int index = 0;
+    public int index;
     private int speed = 100000;
     public PlacementCont placement;
 
@@ -79,7 +79,7 @@ public class PanelGroupManager : MonoBehaviour
             }
             else
             {
-                pos -= new Vector3((1440 * 0.75f), 0, 0);
+                pos -= new Vector3((1440 * 0.75f)-20, 0, 0);
             }
         }
        
@@ -123,7 +123,7 @@ public class PanelGroupManager : MonoBehaviour
             }
             else
             {
-                pos += new Vector3((1440 * 0.75f), 0, 0);
+                pos += new Vector3((1440 * 0.75f)-20, 0, 0);
             }
         }
     }

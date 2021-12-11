@@ -83,25 +83,27 @@ public class PlacementCont : MonoBehaviour
     {
         foreach (PlacementObject current in placedObjects)
         {
+           
             Debug.Log(selected.tag);
             if(selected.tag != "")
             {
                 //Show ui
-                menu.SetActive(true);
-                buttons.SetActive(true);
-                buttonBack.SetActive(false);
-                buttonExit.SetActive(true);
+                Debug.Log("tag found");
+                
 
                 if (selected.tag == "burger")
                 {
-                    Debug.Log("burger");
+                    Debug.Log(selected.tag);
                     category = "burger";
                     manager.index = 0;
+                    Debug.Log(manager.index);
                 } 
                 else if(selected.tag == "taco")
                 {
+                    Debug.Log(selected.tag);
                     category = "taco";
                     manager.index = 1;
+                    Debug.Log(manager.index);
                 }
                 else if (selected.tag == "pizza")
                 {
@@ -119,8 +121,11 @@ public class PlacementCont : MonoBehaviour
                     manager.index = 4;
                 }
             }
-            
 
+            menu.SetActive(true);
+            buttons.SetActive(true);
+            buttonBack.SetActive(false);
+            buttonExit.SetActive(true);
 
         }
     }

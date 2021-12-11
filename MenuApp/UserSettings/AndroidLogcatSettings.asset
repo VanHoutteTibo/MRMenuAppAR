@@ -3,7 +3,7 @@
     "m_SelectedPackage": {
         "deviceId": "RF8MA1ZGKFX",
         "name": "com.DefaultCompany.MenuApp",
-        "processId": 13030,
+        "processId": 5517,
         "exited": false
     },
     "m_SelectedPriority": 0,
@@ -72,6 +72,30 @@
             "deviceId": "RF8MA1ZGKFX",
             "name": "com.DefaultCompany.MenuApp",
             "processId": 13030,
+            "exited": false
+        },
+        {
+            "deviceId": "RF8MA1ZGKFX",
+            "name": "com.DefaultCompany.MenuApp",
+            "processId": 30808,
+            "exited": false
+        },
+        {
+            "deviceId": "RF8MA1ZGKFX",
+            "name": "com.DefaultCompany.MenuApp",
+            "processId": 30949,
+            "exited": false
+        },
+        {
+            "deviceId": "RF8MA1ZGKFX",
+            "name": "com.DefaultCompany.MenuApp",
+            "processId": 4977,
+            "exited": false
+        },
+        {
+            "deviceId": "RF8MA1ZGKFX",
+            "name": "com.DefaultCompany.MenuApp",
+            "processId": 5517,
             "exited": false
         }
     ],

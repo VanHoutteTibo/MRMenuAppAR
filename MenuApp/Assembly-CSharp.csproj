@@ -55,11 +55,11 @@
   <ItemGroup>
     <Compile Include="Assets\Scripts\PlacementObject.cs" />
     <Compile Include="Assets\Scripts\DetailPageManager.cs" />
+    <Compile Include="Assets\Scripts\OnboardingManager.cs" />
     <Compile Include="Assets\Scripts\ARImageAnchor.cs" />
     <Compile Include="Assets\Scripts\PanelGroupManager.cs" />
     <Compile Include="Assets\SimpleCollectiblesPack\SimpleCollectibleScript.cs" />
     <Compile Include="Assets\Scripts\PlacementCont.cs" />
-    <Compile Include="Assets\Scripts\OnboardingManager.cs" />
   </ItemGroup>
   <ItemGroup>
     <None Include="Assets\FREE Food Pack\Shaders\Food.shader" />
